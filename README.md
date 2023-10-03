@@ -20,7 +20,7 @@ Dompet Diary adalah aplikasi keuangan sederhana yang dibangun dengan menggunakan
 
 <div align="center">
    <img alt="Intro Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/c30f5d31-72a7-40c2-85f8-d99126d1e260" width="200" height="400" style="border: 1px solid #000;">
-  <img alt="Pie Chart Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/a26dfa12-c0c6-4f31-8812-96e800361a17" width="200" height="400" style="border: 1px solid #000;">
+   <img alt="Beranda Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/3c9d6d9f-c95c-4899-ad27-8c46f8c560c0" width="200" height="400" style="border: 1px solid #000;">
 </div>
 <br>
 <div align="center">
@@ -29,8 +29,8 @@ Dompet Diary adalah aplikasi keuangan sederhana yang dibangun dengan menggunakan
 </div>
 <br>
 <div align="center">
-   <img alt="Beranda Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/3c9d6d9f-c95c-4899-ad27-8c46f8c560c0" width="200" height="400" style="border: 1px solid #000;">
   <img alt="Grafik Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/0d7b3775-3152-4c34-83e6-2cd63792a89d" width="200" height="400" style="border: 1px solid #000;">
+    <img alt="Pie Chart Dompet Diary" src="https://github.com/aufar05/flutter_dompet_diary/assets/110684395/a26dfa12-c0c6-4f31-8812-96e800361a17" width="200" height="400" style="border: 1px solid #000;">
 </div>
 <br>
 <div align="center">
